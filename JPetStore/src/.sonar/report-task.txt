@@ -1,0 +1,5 @@
+projectKey=EXT
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/EXT
+ceTaskId=AVZTemDBfN065-VqcdFw
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVZTemDBfN065-VqcdFw
